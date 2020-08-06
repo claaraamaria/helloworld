@@ -1,0 +1,15 @@
+{
+  "name": "claar",
+  "version": "1.0.0",
+  "description": "Clara invata Pro MERN Stack (2nd Edition)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
